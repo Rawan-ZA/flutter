@@ -10,7 +10,14 @@ class Home extends StatelessWidget{
     return Scaffold(
       body: Column(
         children: [
-
+          Text("rawn"),
+          Row(
+            children: [
+              Text("  "),
+              Text("  "),
+              Text("  "),
+            ],
+          )
         ],
       ),
     );
