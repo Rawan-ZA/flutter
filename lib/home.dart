@@ -14,6 +14,8 @@ class Home extends StatelessWidget{
           Row(
             children: [
               Text("  "),
+              Text("  "),
+              Text("  "),
             ],
           )
         ],
